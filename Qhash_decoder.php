@@ -1,11 +1,16 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Qhash1 Decoder</title>
 <form action="" method="post" enctype="application/x-www-form-urlencoded">
-<input type="text" name="encode" />
+Encoded Word: <br />
+<input type="text" name="encode" /><br/>
+A tip for decode: <br />
 <input type="text" name="tip" />
 <input type="submit" />
 
 
 </form>
+
+
 
 
 
